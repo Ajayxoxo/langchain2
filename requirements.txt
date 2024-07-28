@@ -1,6 +1,7 @@
-streamlit==1.37.0
-pandas==1.5.3
-openpyxl==3.0.10
-cohere==2.1.0
-langchain
-langchain_experimental
+cohere==5.6.2
+langchain==0.2.11
+langchain_experimental==0.0.63
+pandas==2.2.2
+Pillow==10.4.0
+pytesseract==0.3.10
+streamlit
