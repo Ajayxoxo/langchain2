@@ -1,7 +1,7 @@
-streamlit==1.37.0
-pandas==1.5.3
-openpyxl==3.0.10
-cohere==2.1.0
-langchain==0.0.140
-langchain_experimental==0.0.5
-tabulate==0.8.10
+streamlit
+pandas
+openpyxl
+cohere
+langchain
+langchain_experimental
+tabulate
