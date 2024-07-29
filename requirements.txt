@@ -1,7 +1,6 @@
-cohere==5.6.2
-langchain==0.2.11
-langchain_experimental==0.0.63
-pandas==2.2.2
-Pillow==10.4.0
-pytesseract==0.3.10
+pandas
+langchain
+langchain_experimental
+cohere
 streamlit
+openpyxl
