@@ -5,7 +5,7 @@ from langchain.agents.agent_types import AgentType
 import streamlit as st
 
 # Initialize Cohere LLM
-llm = Cohere(cohere_api_key="Fz9K0tKTUrUHyaFXY7qsNaFVLNF6AuIfAiUcqarD", temperature=0)
+llm = Cohere(cohere_api_key="DWYlDQorZ6fUuT2Hfzh02vlWdWML0l6jXLuUhFVX", temperature=0)
 
 # Streamlit UI
 st.title("Excel Data Analyzer")
