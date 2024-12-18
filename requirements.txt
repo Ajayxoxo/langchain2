@@ -3,5 +3,5 @@ pandas
 openpyxl
 cohere
 langchain
-langchain_experimental
+langchain-experimental==0.3.3
 tabulate
